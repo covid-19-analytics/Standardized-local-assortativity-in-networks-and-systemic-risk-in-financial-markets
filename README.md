@@ -1,5 +1,7 @@
 # Standardized-local-assortativity-in-networks-and-systemic-risk-in-financial-markets
 
+[![DOI](https://zenodo.org/badge/679551060.svg)](https://zenodo.org/badge/latestdoi/679551060)
+
 This work is licensed under CC0 1.0 Universal (CC0 1.0).
 
 [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)
